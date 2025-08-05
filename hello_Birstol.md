@@ -22,7 +22,7 @@ If you require further verification of authorship, please feel free to contact m
 - **Name**: Lei Ziyan  
 - **Email**: l13201738997@163.com  
 - **Institution**: Xi'an Jiaotong University  
-- **GitHub profile**: [Your GitHub URL]
+- **GitHub profile**: (https://github.com/ChuanXiiiiii)
 
 ---
 *This file is created specifically for the MSc Aerial Robotics application at the University of Bristol to verify my programming experience.*
