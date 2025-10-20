@@ -1,4 +1,4 @@
-# Hello Bristol 👋
+# Hello 👋
 
 This repository contains the source code for the **Knowledge Graph Construction** project, which I developed as part of my research on **large model unlearning evaluation**. The work directly supports the experiments and methodologies described in our paper:
 
@@ -20,9 +20,9 @@ The code here was used in the experiments reported in the above paper.
 If you require further verification of authorship, please feel free to contact me:
 
 - **Name**: Lei Ziyan  
-- **Email**: l13201738997@163.com  
+- **Email**: dq25474@bristol.ac.uk  
 - **Institution**: Xi'an Jiaotong University  
 - **GitHub profile**: (https://github.com/ChuanXiiiiii)
 
 ---
-*This file is created specifically for the MSc Aerial Robotics application at the University of Bristol to verify my programming experience.*
+*This file is created to verify my programming experience.*
